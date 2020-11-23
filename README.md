@@ -1,3 +1,3 @@
 # moonshot-text-adventure-game
 ## Made by VatsaDev
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Made for the github game jam")
+![github game jam 2020](https://github.com/VatsaDev/moonshot/blob/main/favicon.png "Made for the github game jam")
